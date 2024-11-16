@@ -1,13 +1,13 @@
-DOMAIN,api.gpt.ge #v3gpt站点
-DOMAIN,api.v3.cm
-DOMAIN,gf.gpt.ge
-DOMAIN,tianya.at
-DOMAIN,assrt.net
-DOMAIN,debrid.link
-DOMAIN,flpclub.com,DIRECT
+DOMAIN-KEYWORD,api.gpt.ge
+DOMAIN-KEYWORD,api.v3.cm
+DOMAIN-KEYWORD,gf.gpt.ge
+DOMAIN-KEYWORD,tianya.at
+DOMAIN-KEYWORD,assrt.net
+DOMAIN-KEYWORD,debrid.link
+DOMAIN-KEYWORD,flpclub.com
 DOMAIN-KEYWORD,linux.do
-DOMAIN,kimoji.us.kg
-DOMAIN,v2rayssr.com
+DOMAIN-KEYWORD,kimoji.us.kg
+DOMAIN-KEYWORD,v2rayssr.com
 DOMAIN-KEYWORD,aicoin.com
 DOMAIN-KEYWORD,owlto.finance
 DOMAIN-KEYWORD,foresightnews.pro
