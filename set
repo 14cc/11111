@@ -11,6 +11,7 @@
 
 ;设置规则标志位
 ruleset=🍺 我的分流,https://raw.githubusercontent.com/14cc/11111/refs/heads/main/my%20rules
+ruleset=🍺 我的直连,https://raw.githubusercontent.com/14cc/11111/refs/heads/main/direct
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
