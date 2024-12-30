@@ -11,7 +11,7 @@
 
 ;设置规则标志位
 ruleset=💰 加密,https://raw.githubusercontent.com/14cc/11111/refs/heads/main/crypro
-ruleset=🍺 我的分流,https://raw.githubusercontent.com/14cc/11111/refs/heads/main/my%20rules
+ruleset=🍺 我的分流,https://raw.githubusercontent.com/14cc/11111/refs/heads/main/myrules
 ruleset=🍺 我的直连,https://raw.githubusercontent.com/14cc/11111/refs/heads/main/direct
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
