@@ -1,4 +1,6 @@
-路由规则：https://wiki.metacubex.one/config/rules/?h=domain+suffix#domain-regex
+路由规则
+https://wiki.metacubex.one/config/rules/?h=domain+suffix#domain-regex
+
 DOMAIN
 匹配完整域名
 
